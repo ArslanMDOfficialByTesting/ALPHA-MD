@@ -96,7 +96,7 @@ const {
 let {
   reagir
 } = require(__dirname + "/keizzah/app");
-var session = conf.session.replace(/ALPHA-MD;;;=>/g, "");
+var session = conf.session.replace(/ARSLAN-MD~, "ARSLAN-MD~");
 const prefixe = conf.PREFIXE || [];
 
 require('dotenv').config({
